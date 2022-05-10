@@ -1,0 +1,15 @@
+.formField {
+  margin: 10px 0;
+  display: flex;
+  gap: 24px;
+}
+
+.textField {
+  padding: 8px 16px;
+  border: 1px white solid;
+  border-radius: 8px;
+}
+
+.submit {
+  cursor: pointer;
+}

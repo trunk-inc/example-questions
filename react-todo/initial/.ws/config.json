@@ -1,0 +1,15 @@
+{
+  "name": "example-questions-react-todo",
+  "display_name": "example-questions-react-todo",
+  "part_id": "c8c56a43-9f20-4952-9d65-516cb6bbd60f",
+  "question_id": "e136c3f6-4c6b-4229-bdc2-975589847662",
+  "correct_answer_visibility": "invisible",
+  "sortorder": 1,
+  "content": "content.md",
+  "hint": "hint.md",
+  "initial_directory": "initial/",
+  "model_directory": "modelanswer/",
+  "override_directory": "override/",
+  "command": "bash ./test.sh",
+  "is_show_download_link": true
+}

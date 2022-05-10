@@ -1,0 +1,15 @@
+.contents {
+  padding: 24px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.list .listItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
